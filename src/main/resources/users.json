@@ -1,0 +1,4 @@
+db.users.insert({    "_id" : "1",    "username" : "apacheuser",    "password" : "Summer95!",    "firm"     : "Apache", "roles": ["client", "admin"]});
+db.users.insert({    "_id" : "2",    "username" : "springuser",    "password" : "Spring99!",    "firm"     : "SpringSource", "roles": ["client"]});
+db.users.insert({    "_id" : "3",    "username" : "user3",    "password" : "Autumn03!",    "firm"     : "RedHat", "roles": ["client"]});
+db.createUser({user: "webuser",pwd: "W3b$ervic3s!",roles: [ ]})

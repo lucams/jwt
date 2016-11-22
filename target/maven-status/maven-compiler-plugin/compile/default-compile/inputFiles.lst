@@ -1,0 +1,5 @@
+/home/lucams/workspace/JwtSecurity/src/main/java/com/procergs/model/StatusMessage.java
+/home/lucams/workspace/JwtSecurity/src/main/java/com/procergs/model/Item.java
+/home/lucams/workspace/JwtSecurity/src/main/java/com/procergs/model/User.java
+/home/lucams/workspace/JwtSecurity/src/main/java/com/procergs/util/MongoDBSingleton.java
+/home/lucams/workspace/JwtSecurity/src/main/java/com/procergs/service/JwtSecurity.java

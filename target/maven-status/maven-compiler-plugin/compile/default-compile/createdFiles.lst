@@ -1,0 +1,7 @@
+com/procergs/model/Item.class
+com/procergs/model/StatusMessage.class
+com/procergs/util/MongoDBSingleton$Holder.class
+com/procergs/util/MongoDBSingleton$1.class
+com/procergs/service/JwtSecurity.class
+com/procergs/model/User.class
+com/procergs/util/MongoDBSingleton.class

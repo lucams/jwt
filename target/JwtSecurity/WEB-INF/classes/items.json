@@ -1,0 +1,3 @@
+db.items.insert({   "_id" : "10029T1",    "item-id" : "123",    "item-name" : "KitchenAid Artisan 5 qt. Stand Mixer", "price" : 314.9900000000000100,  "quantity" : 13});
+db.items.insert({    "_id" : "12349K1",    "item-id" : "k10001",    "item-name" : "Keurig K10 MINI Plus Brewing System", "price" : 79.9899999999999950, "quantity" : 36});
+db.items.insert({    "_id" : "83949PT",    "item-id" : "EPP1029",    "item-name" : "Electric Power Pressure Cooker XL (8 qt)", "price" : 119.9899999999999900,  "quantity" : 8});
